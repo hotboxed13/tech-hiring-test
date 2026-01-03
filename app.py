@@ -73,4 +73,5 @@ try:
                 percent = (score / len(test_pool)) * 100
                 
                 # 4. Save to 'Results' tab
+
                 result_row
